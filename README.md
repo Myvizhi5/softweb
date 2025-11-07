@@ -433,8 +433,12 @@ administration.html
 
 ## OUTPUT:
 
+![alt text](<Screenshot 2025-11-07 225045.png>)
 
+![alt text](<Screenshot 2025-11-07 225520.png>)
 
+![alt text](<Screenshot 2025-11-07 225219.png>)
 
+![alt text](<Screenshot 2025-11-07 225506.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.

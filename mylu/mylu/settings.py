@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=0zn^b$1lk$9a4s-(q)56ll*s+vp=))m8vpw5o-*0(p9^j*d#7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -115,7 +115,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
-STATICFILES_DIRS=[os.path.join(BASE_DIR,'softapp/static')]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'softweb/static')] 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
